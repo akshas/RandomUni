@@ -1,0 +1,13 @@
+C:\Users\alex\source\repos\Asso_Agre_Compo\RandomUni\bin\Debug\netcoreapp3.1\RandomUni.exe
+C:\Users\alex\source\repos\Asso_Agre_Compo\RandomUni\bin\Debug\netcoreapp3.1\RandomUni.deps.json
+C:\Users\alex\source\repos\Asso_Agre_Compo\RandomUni\bin\Debug\netcoreapp3.1\RandomUni.runtimeconfig.json
+C:\Users\alex\source\repos\Asso_Agre_Compo\RandomUni\bin\Debug\netcoreapp3.1\RandomUni.runtimeconfig.dev.json
+C:\Users\alex\source\repos\Asso_Agre_Compo\RandomUni\bin\Debug\netcoreapp3.1\RandomUni.dll
+C:\Users\alex\source\repos\Asso_Agre_Compo\RandomUni\bin\Debug\netcoreapp3.1\RandomUni.pdb
+C:\Users\alex\source\repos\Asso_Agre_Compo\RandomUni\obj\Debug\netcoreapp3.1\RandomUni.csprojAssemblyReference.cache
+C:\Users\alex\source\repos\Asso_Agre_Compo\RandomUni\obj\Debug\netcoreapp3.1\RandomUni.AssemblyInfoInputs.cache
+C:\Users\alex\source\repos\Asso_Agre_Compo\RandomUni\obj\Debug\netcoreapp3.1\RandomUni.AssemblyInfo.cs
+C:\Users\alex\source\repos\Asso_Agre_Compo\RandomUni\obj\Debug\netcoreapp3.1\RandomUni.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\Asso_Agre_Compo\RandomUni\obj\Debug\netcoreapp3.1\RandomUni.dll
+C:\Users\alex\source\repos\Asso_Agre_Compo\RandomUni\obj\Debug\netcoreapp3.1\RandomUni.pdb
+C:\Users\alex\source\repos\Asso_Agre_Compo\RandomUni\obj\Debug\netcoreapp3.1\RandomUni.genruntimeconfig.cache
