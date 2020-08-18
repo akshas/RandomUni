@@ -6,12 +6,18 @@ namespace RandomUni
 {
     class Program
     {
+
+
         static void Main(string[] args)
         {
             Random rnd = new Random();
 
             List<Uni> Unis = new List<Uni>();
+            List <Student> Studente = new List<Student>();
 
+            foreach(int i in Enumerable.Range(1, 200)) {
+                
+            }
             foreach(int i  in Enumerable.Range(1, 10))
             {
                 Unis.Add(new Uni("Uni" +  i));
